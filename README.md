@@ -1,1 +1,1 @@
-# Blindness_detecti0n
+# Blindness_detection
